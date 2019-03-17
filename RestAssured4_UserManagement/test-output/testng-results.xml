@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11312" started-at="2019-03-16T11:36:38Z" finished-at="2019-03-16T11:36:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11312" started-at="2019-03-16T11:36:38Z" finished-at="2019-03-16T11:36:49Z">
+      <class name="com.qa.tests.UserManagement">
+        <test-method status="PASS" signature="checkLogin()[pri:0, instance:com.qa.tests.UserManagement@6093dd95]" name="checkLogin" is-config="true" duration-ms="3053" started-at="2019-03-16T17:06:35Z" finished-at="2019-03-16T17:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method status="PASS" signature="getdata()[pri:0, instance:com.qa.tests.UserManagement@6093dd95]" name="getdata" is-config="true" duration-ms="2167" started-at="2019-03-16T17:06:38Z" finished-at="2019-03-16T17:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method status="PASS" signature="getAllAutomotiveUsers()[pri:0, instance:com.qa.tests.UserManagement@6093dd95]" name="getAllAutomotiveUsers" duration-ms="8559" started-at="2019-03-16T17:06:40Z" finished-at="2019-03-16T17:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllAutomotiveUsers -->
+        <test-method status="PASS" signature="addNewAutomotiveUser()[pri:0, instance:com.qa.tests.UserManagement@6093dd95]" name="addNewAutomotiveUser" duration-ms="560" started-at="2019-03-16T17:06:49Z" finished-at="2019-03-16T17:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewAutomotiveUser -->
+        <test-method status="PASS" signature="clearRequest()[pri:0, instance:com.qa.tests.UserManagement@6093dd95]" name="clearRequest" is-config="true" duration-ms="1" started-at="2019-03-16T17:06:49Z" finished-at="2019-03-16T17:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearRequest -->
+        <test-method status="PASS" signature="dbdisconnect()[pri:0, instance:com.qa.tests.UserManagement@6093dd95]" name="dbdisconnect" is-config="true" duration-ms="1" started-at="2019-03-16T17:06:50Z" finished-at="2019-03-16T17:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbdisconnect -->
+      </class> <!-- com.qa.tests.UserManagement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
